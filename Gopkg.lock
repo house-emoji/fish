@@ -1,0 +1,19 @@
+memo = "293f654f459470492978fe54118a5b7d4068e9d0f0bbf44b7bad66e0ca29eb23"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/BenLubar/espeak"
+  packages = ["."]
+  revision = "8251e04ae52e50d0174a146c8532d5e6c35aef97"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/pkg/errors"
+  packages = ["."]
+  revision = "17b591df37844cde689f4d5813e5cea0927d8dd2"
+
+[[projects]]
+  branch = "master"
+  name = "golang.org/x/mobile"
+  packages = ["exp/audio/al","internal/mobileinit"]
+  revision = "e0bb90a94838226a712d34827c457e987dff1566"

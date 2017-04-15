@@ -1,0 +1,12 @@
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/BenLubar/espeak"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/pkg/errors"
+
+[[dependencies]]
+  branch = "master"
+  name = "golang.org/x/mobile"
